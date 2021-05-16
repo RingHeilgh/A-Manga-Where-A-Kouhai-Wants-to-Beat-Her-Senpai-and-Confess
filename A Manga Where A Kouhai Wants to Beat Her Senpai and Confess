@@ -1,16 +1,17 @@
-"title":"A Manga Where A Kouhai Wants to Beat Her Senpai and Confess",
-"description":"This girl wants to beat her senpai and confess",
-"artist":"Kuromiya Sakana",
-"author":"Kuromiya Sakana",
-"cover":"https://cdn.discordapp.com/attachments/843465226413801474/843467101154443274/IMG_20210130_193329.jpg",
-"chapters":{
-   "3":{
-      "title":"Chapter 3",
-      "volume":"1",
-      "groups":{
-         "RingHeilgh":"/proxy/api/imgur/chapter/48RUMCe/"
+{
+  "title": "A Manga Where A Kouhai Wants to Beat Her Senpai and Confess",
+  "description": "This girl wants to beat her senpai and confess",
+  "artist": "Kuromiya Sakana",
+  "author": "Kuromiya Sakana",
+  "cover": "https://cdn.discordapp.com/attachments/843465226413801474/843467101154443274/IMG_20210130_193329.jpg",
+  "chapters": {
+    "3": {
+      "title": "Ch.3",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/48RUMCe/"
       },
-      "last_updated":"1616368746"
-   }
-}
+      "last_updated": "1616368746"
+    }
+  }
 }
